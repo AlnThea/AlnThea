@@ -1,7 +1,7 @@
 ## Met Siang 👋, perkenalan **Dahlan** (**Alan_Thea**)
 
 <p align="center">
-  "Sesuatu yang Kosong"
+  "bukan ahli dan bukan pemula dalam pemrograman"
 </p>
 
 **🌱 Lagi ngapain? :** ya, sedang ngoding lah napain lagi, lagian tiap update kena bug<br/>
