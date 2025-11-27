@@ -8,7 +8,7 @@
 **👯 Ahlinya:** open-source PHP, apalagi Laravel & JavaScript, tailwind mungkin? <br/>
 **💬 Nanya aja , jangan malu:** Laravel, MySQL, Tailwind CSS<br/>
 **📫 Ingin menghubungi?:** [Email](mailto:dahlan.fauzi1991@gmail.com)<br/> 
-**⚡ Fakta nya:** Gak ada sih, !
+**⚡ Fakta nya:** aing orang sunda, !
 
 ---
 
