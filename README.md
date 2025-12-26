@@ -21,6 +21,10 @@
       <br><br>
       <h3>📍 Lokasi</h3>
       <p>Sukabumi, Jawa Barat</p>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlnThea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" alt="Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlnThea&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180px" alt="Langs">
+      </div>
     </td>
     <td width="70%" valign="top">
       <h2>👋 Tentang Saya</h2>
