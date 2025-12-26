@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
-repositories 23 : 10 private, 13 public
+repositories: 10 private, 13 public
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Livewire-0C4B33?style=for-the-badge&logo=laravel&logoColor=white"/>
