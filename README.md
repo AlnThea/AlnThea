@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Dahlan%20Fauzi,%20S.Kom&fontSize=50&desc=Full%20Stack%20Web%20Developer%20|%20IT%20Auditor%20|%20Educator&descAlignY=65&fontAlignY=35" alt="Header Image" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=Dahlan%20Fauzi,%20&fontSize=50&desc=Full%20Stack%20Web%20Developer%20|%20IT%20Auditor%20|%20Educator&descAlignY=65&fontAlignY=35" alt="Header Image" width="100%"/>
 
 <p>
   <a href="https://linkedin.com/in/dahlan-fauzi" target="_blank">
